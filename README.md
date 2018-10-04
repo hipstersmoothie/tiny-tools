@@ -22,6 +22,7 @@ A collection of tiny fast JavaScript packages
 | [curry](https://github.com/dominictarr/curry)                     | Simple curry module, with nothing _too clever_,                  | [2kB](https://bundlephobia.com/result?p=curry)              |
 | [minimist](https://github.com/substack/minimist)                  | Parse argument options                                           | [2.9kB](https://bundlephobia.com/result?p=minimist)         |
 | [timm](https://github.com/guigrpa/timm)                           | Immutability helpers with fast reads and acceptable writes       | [3.5kB](https://bundlephobia.com/result?p=timm)             |
+| [tiny-glob](https://github.com/terkelg/tiny-glob)                 | Super tiny and ~350% faster alternative to node-glob             | [3.9kB](https://bundlephobia.com/result?p=tiny-glob)        |
 | [dayjs](https://github.com/iamkun/dayjs)                          | Parses, validates, manipulates, and displays dates and times     | [6.6kB](https://bundlephobia.com/result?p=dayjs)            |
-| [preact](https://github.com/developit/preact/)                     | Fast 3kB React alternative with the same API.                    | [8.8kB](https://bundlephobia.com/result?p=preact)           |
+| [preact](https://github.com/developit/preact/)                    | Fast 3kB React alternative with the same API.                    | [8.8kB](https://bundlephobia.com/result?p=preact)           |
 | [js-search](https://github.com/bvaughn/js-search)                 | Efficient, client-side search library for JavaScript objects     | [16.3kB](https://bundlephobia.com/result?p=js-search)       |
