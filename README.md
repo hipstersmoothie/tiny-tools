@@ -5,7 +5,7 @@ A collection of tiny fast JavaScript packages
 | Package                                                           | Purpose                                                          | Size (minified)                                             |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
 | [dlv](https://github.com/developit/dlv)                           | Safe deep property access.                                       | [209B](https://bundlephobia.com/result?p=dlv)               |
-| [arr-flatten](https://github.com/jonschlinkert/arr-flatten)       | Recursively flatten an array or arrays.                          | [236B](https://bundlephobia.com/result?p=arr-flatten)       |
+| [flatten-array](https://github.com/elidoran/flatten-array)        | Fastest array flatten.                                           | [264B](https://bundlephobia.com/result?p=flatten-array)     |
 | [fuzzysearch](https://github.com/bevacqua/fuzzysearch)            | Tiny and blazing-fast fuzzy search in JavaScript                 | [300B](https://bundlephobia.com/result?p=fuzzysearch)       |
 | [rtrim](https://github.com/sergejmueller/rtrim)                   | Strip characters from the ends of a string                       | [306B](https://bundlephobia.com/result?p=rtrim)             |
 | [dset](https://github.com/lukeed/dset)                            | Safely write deep Object values                                  | [318B](https://bundlephobia.com/result?p=dset)              |
