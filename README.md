@@ -18,6 +18,7 @@ A collection of tiny fast JavaScript packages
 | [mkdirp](https://github.com/substack/mkdirp)                      | Like mkdir -p, but in node.js!                                   | [916B](https://bundlephobia.com/result?p=mkdirp)            |
 | [fast-memoize](https://github.com/leobalter/fast-memoize)         | Fastest possible memoization in JavaScript, supports N arguments | [1.1kB](https://bundlephobia.com/result?p=fast-memoize)     |
 | [browser-cookies](https://github.com/voltace/browser-cookies)     | Tiny cookies library for the browser                             | [1.2kB](https://bundlephobia.com/result?p=browser-cookies)  |
+| [fast-clone](https://www.npmjs.com/package/fast-clone)                 | The fastest deep cloning function on NPM that supports the following types:     | [1.2kB](https://bundlephobia.com/result?p=fast-clone)       |
 | [pretty-ms](https://github.com/sindresorhus/pretty-ms)            | Convert milliseconds to a human readable string                  | [1.6kB](https://bundlephobia.com/result?p=pretty-ms)        |
 | [curry](https://github.com/dominictarr/curry)                     | Simple curry module, with nothing _too clever_,                  | [2kB](https://bundlephobia.com/result?p=curry)              |
 | [minimist](https://github.com/substack/minimist)                  | Parse argument options                                           | [2.9kB](https://bundlephobia.com/result?p=minimist)         |
@@ -26,4 +27,4 @@ A collection of tiny fast JavaScript packages
 | [dayjs](https://github.com/iamkun/dayjs)                          | Parses, validates, manipulates, and displays dates and times     | [6.6kB](https://bundlephobia.com/result?p=dayjs)            |
 | [preact](https://github.com/developit/preact/)                    | Fast 3kB React alternative with the same API.                    | [8.8kB](https://bundlephobia.com/result?p=preact)           |
 | [js-search](https://github.com/bvaughn/js-search)                 | Efficient, client-side search library for JavaScript objects     | [16.3kB](https://bundlephobia.com/result?p=js-search)       |
-| [fast-clone](https://www.npmjs.com/package/fast-clone)                 | The fastest deep cloning function on NPM that supports the following types:     | [16.3kB](https://bundlephobia.com/result?p=fast-clone)       |
+
